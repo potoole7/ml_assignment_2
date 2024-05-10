@@ -1,8 +1,5 @@
 #### Regularisation analysis of MNIST dataset ####
 
-# Connectivity of graphs
-# https://cedar.wwu.edu/cgi/viewcontent.cgi?article=1082&context=math_facpubs
-
 #### Metadata ####
 
 # mnist_size <- 5000 # n rows in mnist to (randomly) take; too large otherwise

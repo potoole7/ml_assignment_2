@@ -1,19 +1,5 @@
 #### Regularisation analysis of Ionosphere dataset ####
 
-# Connectivity of graphs
-# https://cedar.wwu.edu/cgi/viewcontent.cgi?article=1082&context=math_facpubs
-# TODO: Change to for loop (done)
-# TODO: Add each value to dataframe (done)
-# TODO: Functionalise everything to share with testing (done)
-# TODO: Average over 10 random splits (done)
-# TODO: Allow use of exponential smooth function (done, but doesn't seem to work!)
-# TODO: Calculate for test data (won't work for just 6 neighbours I'd imagine!)
-# TODO: Check lambda1 for S, should be the same as in paper (34.9907) (far smaller! What if I use 34.9907?)
-# Even max isn't that large!
-# TODO: Generalisation bound calculation wrong, need to fix somehow
-# TODO: Also test with exponential smooth function!
-
-
 #### Metadata ####
 
 label_sizes <- c(10, 20, 40, 60, 80, 100, 200, 300) # size of label sets
